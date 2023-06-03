@@ -1,7 +1,7 @@
 # Servo-Distance_Indicator
 <img src="./images/servo.jpg" align="left" height="270" width="222">
 
-# Parts Required For Building The Bot:-
+# Parts Required For Building The Circuit:-
 
 <ul>
   <li>Jumper Wires</li>
